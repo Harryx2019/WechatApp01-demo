@@ -1,0 +1,4 @@
+<navigator url="../index3/index3" open-type="navigate"> index3</navigator>
+<navigator url="../logs2/logs2" open-type="redirect"> logs2</navigator>
+<navigator url="../logs/logs" open-type="switchTab"> logs</navigator>
+<navigator url="../logs2/logs2" open-type="reLaunch"> logs2</navigator>

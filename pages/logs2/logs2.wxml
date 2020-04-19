@@ -1,0 +1,5 @@
+<swiper autoplay>
+  <swiper-item> <image mode="aspectFit" src="../../images/轮播1.jpg"></image> </swiper-item>
+  <swiper-item> <image mode="aspectFit" src="../../images/轮播2.jpg"></image> </swiper-item>
+  <swiper-item> <image mode="aspectFit" src="../../images/轮播3.jpg"></image> </swiper-item>
+</swiper>
